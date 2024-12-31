@@ -1,0 +1,408 @@
+,Unnamed: 0,index,title,company_name,location,via,description,extensions,job_id,thumbnail,posted_at,schedule_type,work_from_home,salary,search_term,date_time,search_location,commute_time,salary_pay,salary_rate,salary_avg,salary_min,salary_max,salary_hourly,salary_yearly,salary_standardized,description_tokens
+0,0,0,Data Analyst,Cisco Meraki, Anywhere ,via LinkedIn,"As the leader in cloud-managed IT, Cisco Meraki connects passionate people to their mission by simplifying the digital workplace. Our impact is driven by the innovative, purposeful, and vibrant people who make up our inclusive community. When technology is intuitive, our customers can focus on what matters.
+
+We are building a network of future Merakians who are excited by our mission & culture... and want to make an impact in their next role. We would like to hear from you if you are interested in being considered for future career opportunities with us.
+
+To be considered for future roles, please submit your resume. When a position is available that matches your background and skill set, we will get in touch with you.
+
+Please note this job posting is currently not open and is intended to advertise future job opportunities.
+
+The Data Science team is a growing group that works closely with executives and leaders across the company to support the development of and alignment on our business strategy. As a Data Analyst in this group, you will develop cross-functional relationships and use rigorous quantitative methods and product data to drive near- and longer-term impact. This would be an outstanding fit for someone who would enjoy building dashboards and conducting ad hoc analyses for priority Meraki leadership asks and joint Cisco/Meraki product and customer analysis.
+
+What will you do:
+• Define key metrics to help track our business performance and the customer experience
+• Enable business partners to self-service their data needs through documentation and templated reports/dashboards.
+• Independently uncover high-value targets for operational process improvement by analyzing trends in Support data.
+• Proactively maintain data integrity and quality by investigating anomalous reports, trends, and metrics.
+
+What skills you possess:
+• Educational/ work experience in the following: Computer Science, Econometrics, Mathematics, Statistics or Engineering
+• Hands on SQL, Data visualization(Tableau or other BI tool) experience and exposure to AWS
+• 3+ years of demonstrated ability in an analytical role or equivalent combination of graduate degree and work experience.
+• Outstanding critical thinking and problem-solving ability with superb attention to detail and accuracy
+
+Who you are:
+• Have a real passion for analytics and desire for continuous learning
+• Have strong organizational skills; able to keep track of multiple complicated priorities without losing details
+• Are eager to take ownership of projects
+• You remain curious and with an appetite to understand all the components of your work
+
+We encourage you to drop us a line even if you don’t have all the points above. That's a lot of different areas of responsibility! We will help you pick them up because we believe that great engineers come from diverse backgrounds.
+
+At Cisco Meraki, we’re challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, inspire innovation, and release the full potential of our people. We’re building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+Compensation Range:
+
+$80,100—$144,000 USD
+
+Message to applicants applying to work in the U.S.:
+
+When available, the salary range posted for this position reflects the projected hiring range for new hire, full-time salaries in U.S. locations, not including equity or benefits. For non-sales roles the hiring ranges reflect base salary only; employees are also eligible to receive annual bonuses. Hiring ranges for sales positions include base and incentive compensation target. Individual pay is determined by the candidate's hiring location and additional factors, including but not limited to skillset, experience, and relevant education, certifications, or training. Applicants may not be eligible for the full salary range based on their U.S. hiring location. The recruiter can share more details about compensation for the role in your location during the hiring process.
+
+U.S. employees have access to quality medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, short and long-term disability coverage, basic life insurance and numerous wellbeing offerings. Employees receive up to twelve paid holidays per calendar year, which includes one floating holiday, plus a day off for their birthday. Employees accrue up to 20 days of Paid Time Off (PTO) each year and have access to paid time away to deal with critical or emergency issues without tapping into their PTO. We offer additional paid time to volunteer and give back to the community. Employees are also able to purchase company stock through our Employee Stock Purchase Program.
+
+Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components. For quota-based incentive pay, Cisco pays at the standard rate of 1% of incentive target for each 1% revenue attainment against the quota up to 100%. Once performance exceeds 100% quota attainment, incentive rates may increase up to five times the standard rate with no cap on incentive compensation. For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid","['22 hours ago', 'Work from home', 'Full-time', 'Health insurance', 'Dental insurance', 'Paid time off']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlQ1dUdObkZQRC1VQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVUxck1teHNUSHB3TkdVd05XVlpiRzVRVkhZMVNtbFpkRmh2Ukc4NVJVTlRiSHBNWlMxWWRHeEtUQzE2UlcxeFUzaERjRGN3U0ROMFowdEVlRFpCZG5KcVJXUjFkRVp2UVc5elYwRjFOVzQ1TTJobE1rUlhRVGd4Um5wS1VscHFkMkp5U0RCcWJUQk1aekpwVFd3MFJrSlZkMHhVVmxaUVJsaEljVWt3V200NUxYZEdPWGM1VjBRd01XZGlVMnhNT1RZMGVXSnpaMnd4WDE5V2IxOWpWWEZCRWhkMU9HSktXazVoY2taS1RHbzFUbTlRYUY4dFRqSkJkeG9pUVV4RlV6bDFVR1F6ZUZCUFdEVk1kMEZoT1hNNWJYVkhSalpyYjFOUmEydHdkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLWFuYWx5c3QtYXQtY2lzY28tbWVyYWtpLTM2ODEzMjAxNzg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHLeLicHK24Y9aOxGYUereNZ4nVwjmeKKBx007QU&s,22 hours ago,Full-time,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['aws', 'sql', 'tableau']"
+1,1,1,Entry Level - Business Data Analyst (Remote),Midwest Staffing, Anywhere ,via LinkedIn,"As a Senior Business Analyst you will contribute to this mission by strategically supporting requirements collection, process mapping, and some project management for successful on-time delivery across multiple projects. You will report directly to the Manager, Enterprise PMO and work closely with department heads across the company.
+
+What You’ll Contribute...
+
+In this role, you can expect to:
+• Create business/functional requirement documents and process maps with as-is and to-be states with a focus on enterprise scalability while leveraging automation
+• Build forecast models / ad-hoc analyses to support capital allocation decisions
+• Conduct interviews, focus groups and issue surveys in support of business process analysis
+• Assess business performance across multiple attributes, such as cost, quality, service, and compliance
+• Critically analyze business situations and partner with process owners to develop solutions, re-engineer existing business processes, and support the automation of multiple manual business processes
+• Identify, support resolution of, escalate and report problems and issues, and work closely with department leaders, teams, and internal customers to highlight factors that affect the work plans / processes of the selected projects
+
+What It Takes To Succeed
+
+We’ll provide you with the training and tools to set you up for success, and we hope that you’ll bring:
+• Extensive knowledge and expertise in business process documentation, analysis and/or re-engineering experience, creating process and system maps, requirements documentation, and other project artifacts
+• Proven track record of working with executive leadership (managing project risks, tracking KPIs, providing updates and reports, etc.)
+• Experience implementing a wide range of change management and process improvement activities, based on broader organizational goals
+• Ability to build and manage under short timelines and sometimes ambiguous circumstances in a complex, fast-growing work environment
+• Relevant Business Analysis certifications (IIBA CBAP, PMI PBA) or Lean Six Sigma belts (preferred)
+• Must have the ability to carry out tasks with or without reasonable accommodation
+• Perform all other responsibilities as designated
+• Assist in developing a favorable, professional and safe work environment","['53 minutes ago', 'Work from home', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCAtIEJ1c2luZXNzIERhdGEgQW5hbHlzdCAoUmVtb3RlKSIsImh0aWRvY2lkIjoiQkkzSUgxaEk0bFVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVTFyTW14c1REWTVTR3BIWmxkalpVRjZabEl5YUdNMFVsa3libmxwVkZOVGNtNU9OMlJRTWpCYWMzUkhjVVJ1WHpaNGNtNVJOa0Z6YUVKUlkyVnFjM2xVY0RGYWRuZGpRa3RsUzA5b1NVNWlRVzlVVm1OelRWcDZSMk5VWkVaVFVubElja1ZFU0d4dVFtNU9OMGxyZG1sTFRtcDFZVFI2YkZNMVRFRkZXVWc1TW5KemNGSlFlRXhXUjFwNmRrRkdXR0pzYVVscVNUQjNiemxRVkY4d1pHeE9hVFp2WDA5ekxXZERSV1o0VEdoVFZuZEtZMDlrZFU5cVowZDRRM2R0WHpWMlJ6aFNhbFYyVDFKVUVoZDFPR0pLV2s1aGNrWktUR28xVG05UWFGOHRUakpCZHhvaVFVeEZVemwxVDBWclVVMTVORWRIVVRCNFNHNHpNbkpDWkZkdWExbFJTSEZKZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZW50cnktbGV2ZWwtYnVzaW5lc3MtZGF0YS1hbmFseXN0LXJlbW90ZS1hdC1taWR3ZXN0LXN0YWZmaW5nLTM2ODIyMzQ3MDA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLJ0c4AZxH6zaBB2KxvbU_1HomvtKP1BTlgTFau4&s,53 minutes ago,Full-time,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,[]
+2,2,2,Data Analyst/Researcher,"Amyx, Inc.",  United States   ,via Indeed,"Overview:
+
+Amyx is seeking to hire a Data Analyst/Researcher to support our DMLSS PDB project in the Philadelphia area, however the position is 100% remote. The application standardizes medical items for DoD and VA so that they can buy comparable products via contracts with prime vendors. The analyst will research items that cannot be standardized using the application's algorithms and provide... names match that can be possible candidates for the automated standardization process.
+
+Responsibilities:
+• Spearhead daily SQL database maintenance, add research inputs, and troubleshoot a variety of data sizes, formats and structures.
+• Experience in Microsoft Excel with VLOOKUPS, data formatting, and visualizations.
+• Ability to import data into Microsoft Access and export text files for processing.
+• Review data detail for source anomalies and propose methods for correction.
+
+Supported Technologies:
+
+Visual Studio 2019, Azure DevOps Server
+
+Qualifications:
+• MS Office, MS Access, SQL queries
+• Must be a US citizen. Must be able to achieve a NACLC clearance.
+• Education: Bachelor’s Degree in Computer Science, Engineering or a related technical discipline preferred.
+• Experience: Minimum 5 years’ directly related experience
+• Must demonstrate proof of vaccination against Covid-19*
+
+Please contact talent@amyx.com with any questions!
+
+Amyx is an Equal Opportunity employer. Amyx is committed to providing equal employment opportunity to all job seekers. Every qualified applicant receives focused consideration for employment and no one is discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status. In addition to federal law requirements, Amyx complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Equal Opportunity Employer- Minorities/Females/Veterans/Individuals with Disabilities/Sexual Orientation/Gender Identity. Amyx is an E-Verify employer.
+
+Amyx proudly and proactively takes affirmative action to advance employment of individuals who are minorities, women, protected veterans and individuals with disabilities.
+
+Physical Demands
+
+Employee needs to be able to sit at a workstation for extended periods; use hand(s) to handle or feel objects, tools, or controls; reach with hands and arms; talk and hear. Most positions require ability to work on desktop or laptop computer for extended periods of time reading, reviewing/analyzing information, and providing recommendations, summaries and/or reports in written format. Must be able to effectively communicate with others verbally and in writing. Employee may be required to occasionally lift and/or move moderate amounts of weight, typically less than 20 pounds. Regular and predictable attendance is essential","['3 hours ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QvUmVzZWFyY2hlciIsImh0aWRvY2lkIjoiT3lvekh0UExRNkVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVTFyTW14c1MxaEZRMUZXUVdWb1pGaDNVM3A2YXpCMVRrSjVVWE40ZW5CSVRrUjZNVUpvYWpNNVNrZDBWR1E0U0VOSFFsZ3hURTVoY1RodFduUm1jV3BRUW5kSmVFNDVRa05UWWtFdFIwNHlUV0Z2TTA0MWNHOHdWWHBZVVV0RU4wOWhWa3hSUW1aeGVXeHpZMVZ3V2xkMllXMUJjRzg1TkZwb01WZzRla3N4ZVdsdE5IUXdaRXN6ZUhZek5FdHhRVGR4YjNkS1pqRTNXRnBLTm5CUmNsWm5TWGd5TkZwWk9VUk1PSGR5Y1Vsck5FaG9UV0p6RWhkMU9HSktXazVoY2taS1RHbzFUbTlRYUY4dFRqSkJkeG9pUVV4RlV6bDFVR3BEZFRKbFNTMXFNbFpZVkV4alQzRTFWM2h0VFVwTGRqSjNkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSW5kZWVkIiwibGluayI6Imh0dHBzOi8vd3d3LmluZGVlZC5jb20vdmlld2pvYj9qaz01ZDAwOTlhZmJmY2M1NmQ1XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,3 hours ago,Full-time,,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['azure', 'excel', 'sql']"
+3,3,3,Data analyst/AI expert to help build a website scraping and data...,Upwork, Anywhere ,via Upwork,"I am looking for someone to help me build an AI tool that will pull data from 2-3 ticket resale websites, export it into excel, and perform very simple calculations/analysis on the imported data. Ideally the tool will be robust, scalable, and able to be managed by me aftewards.","['23 hours ago', 'Work from home', 'Contractor']",eyJqb2JfdGl0bGUiOiJEYXRhIGFuYWx5c3QvQUkgZXhwZXJ0IHRvIGhlbHAgYnVpbGQgYSB3ZWJzaXRlIHNjcmFwaW5nIGFuZCBkYXRhIGFuYWx5c2lzIHRvb2wiLCJodGlkb2NpZCI6IkNNREdueF9INktzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVUxck1teHNTVk51U0Zod1dYUm1UWGN5V0VkTFZFWlBRVXgwVlRCTWNUZFpWbmxhVm01MWVuTnJNVVptVm1aQ2FYVXhUVzg0VVVKRmNuRldjVVZLYW1ZeVV6Wm9UemxLVDNoQ1MyVmxPVmMyZUZsNE1TMW1lak5aYm1Sb2MzVkljRmwyY2xWWVdrYzVkRmhLYXpZM1JrcEJkemR3ZDBkMk9FZFpNVTl3TkcxalNsUkVTMkZPYlVwa2VYWkJhbHB5ZEdwaGEwb3pjV3RqUVVkSFFsY3lkRXhQZEhKeVdsSjVMVlZCU0RKTWJXdGlTa3BaU0U1c1ZYbFFUM3B1UzFaNWJsWTViR2xTWkZWeExYZEJSbVl4YWpSTk5WWXpVVTg1ZFdZNGJIaEhhekpyY1hoZmVUUnlPWGhRY0V4RmEyUXlOWEIwYWpsNlZSSVhkVGhpU2xwT1lYSkdTa3hxTlU1dlVHaGZMVTR5UVhjYUlrRk1SVk01ZFZCSFZsSjRhekJ2WXpGS1luTmhjR1JtTTFORldWUmlNemhFYzNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9lbi1nYi9mcmVlbGFuY2Utam9icy9hcHBseS9EYXRhLWFuYWx5c3QtZXhwZXJ0LWhlbHAtYnVpbGQtd2Vic2l0ZS1zY3JhcGluZy1hbmQtZGF0YS1hbmFseXNpcy10b29sX34wMWM4YTYxODczNzYwMzk0M2EvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,23 hours ago,Contractor,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,['excel']
+4,4,4,Data Analyst,Bank Street College of Education,  United States   ,"via Higher Education Recruitment Consortium (HERC), HERC Jobs","Position Vacancy – Data Analyst to support the Ed Center’s project portfolio, Bank Street Education Center (the Ed Center)
+
+Summary Position: Bank Street Education Center (the Ed Center), a division within Bank Street College of Education (the College) created to support the College’s systems-level work with school districts, is currently seeking a Data Analyst to support projects across the Ed... Center’s portfolio. They will lead measurement planning as well as develop associated data collection tools to support their assigned projects.
+
+Key relationships: The Data Analyst will report to the Director of Impact and work closely with project teams as well as the broader SSPP team.
+
+Responsibilities: In collaboration with their supervisors, their project teams, and broader SSPP team, the Data Analyst will be responsible for the following:
+
+Analytics:
+• Collaborating with relevant team members to draft a measurement plan that clearly documents desired outcomes and goals as well as associated project metrics.
+• In collaboration with key stakeholders, creating data collection tools that capture data aligned to key project metrics as defined by project leads and in the measurement plan (e.g., tools to support teachers to measure the impact of inquiry cycles, surveys, observation tools, interviews).
+• Analyzing key data points and prepare reports to share with internal and external audiences (e.g., team meetings, district teams, funder reporting and proposals, marketing materials, etc.).
+• Collecting and tracking data around the quality of experiences of participants, and reflecting on this information to debrief learnings and surface implications on the project with project leaders.
+• Building project tools (e.g., feedback forms, surveys, session reports, final report, etc.) and vetting internally.
+• Troubleshooting technological support as it relates to data collection tools, as needed.
+• Creating data visualizations for use by various stakeholders (teachers visualizing student-level data, principals visualizing school-level data, districts visualizing district-level data, and Ed Center team visualizing the progress and impact of our network).
+• Supporting in building and maintaining data management structures and tools for short-term and long-term qualitative and quantitative data collection and analysis.
+• Supporting project teams to deeply understand the district context by researching the history of the city/district and staying current on local topics.
+• Engaging in self-initiated and job-provided professional development activities to stay current on matters related to education, data analysis, and project-related content.
+• Meeting with the project team, SSPP team, and Ed Center team leaders over the lifespan of the project to “step back” and check in on the progress of and make adjustments to the data collection of the project.
+• Contributing to the SSPP-wide analytics by informing a broader analytics strategy across the portfolio and serving as an Analyst on other project teams as assigned; and performing related duties as assigned.
+
+Project Management & Operations:
+• Managing timelines for various analytics responsibilities and collaborating with the Project Manager to move forward respective workstreams.
+• Attending professional learning engagements to support in data collection and implementation.
+• Providing technical support for professional learning engagements, including managing logistical details and platform guidance in preparation of and during sessions.
+• Supporting in maintaining a functional and supportive organizational system within the G:Drive, files, documented systems and processes, etc.
+• Performing related duties as assigned.
+
+Qualifications:
+
+Skills & Knowledge:
+• Background in research and education, with prior experience on research projects analyzing student-level data
+• Expertise in interpreting and summarizing academic research as well as the ability to present information in multiple formats for diverse audiences.
+• Strong problem solving skills with the ability to perform independently.
+• Strong communications skills (email, writing, in-person).
+
+Experiences:
+• At least 3-5 years of work experience
+• Master’s degree in education, nonprofit policy, analytics, or related field
+• Experience working with diverse and/or historically deprioritized student populations at the classroom- and/or school- levels.
+• Experience with reporting and/or managing grant-funded projects and associated deliverables
+• Ability to work effectively with data of varying levels of quality and validity; attention to detail and ability to identify issues and inconsistencies in data.
+• Ability to manage complex and multiple projects
+• Demonstrated ability to work collaboratively with Demonstrated Google suite, PowerPoint, Excel, Google Data Studio, project management, and analytical skills diverse range of team members and external partners.
+• Demonstrated ability to think strategically & execute on ideas
+
+Mindsets:
+• An intersectional, anti-racist lens and strengths-based approach to data management, and team collaboration
+• A reflective learner’s stance
+• Enthusiasm for learning and a willingness to self-initiate professional learning opportunities
+• Strong work ethic and willingness to take initiative
+
+Salary Range: $70,000 - $85,000
+
+Additional Information:
+• This position is contingent upon available funding.
+• Please apply online by submitting a cover letter and resume for the position in the “Job Opportunities” section under the “About” tab on Bank Street’s website:
+
+https://www.bankstreet.edu/administrative-offices/human-resources/job-opportunities/
+• Please address cover letters to:
+
+Tracy Fray-Oliver
+
+Senior Associate Vice President, Bank Street Education Center
+
+Bank Street College
+
+610 West 112th Street
+
+New York, NY 10025
+• Please include where you came across this job posting in your cover letter.
+
+BANK STREET COLLEGE OF EDUCATION IS AN EQUAL OPPORTUNITY EMPLOYER AND DOES NOT DISCRIMINATE
+
+ON THE BASIS OF RACE, SEXUAL ORIENTATION ETHNIC ORIGIN, SEX, OR DISABILITY IN ITS EMPLOYMENT
+
+POLICIES AND OTHER COLLEGE ADMINISTERED PROGRAMS","['20 hours ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Imh3WUl1YkF0NldNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVUxck1teHNTVVZwU1dKU2RVTm1ibEI1UVMxWFFVczVRa3BHUVMxSldrRk1YMU5mYlc1VWVHZFBaRWh6VWpseldTMTBVRFF0WlZsVE5VbEZUbGRwUW1SUVpXbExibFF3ZDB0UWFuaE1ielJNWm5nNU5EVklSRTFNWWtObFZ6TjNlazF3TlU5aGFGVlNZM1pxU2t4RlVYQTVZMVJuTVdsS0xYRm5NbkJIVDI0MWIxTnBVSEpGVVU1dWVuSjZPRVZJUjE5M01HRXhSRXd0TVdSTVFrWklSamgxTkRnNFNUVmtjRnBWY1hBNE1GWkphREJLVG0xMFZEaGlOSFJNTURKWFVYcFlZazlqU2w5dFFuY3lFaGQxT0dKS1drNWhja1pLVEdvMVRtOVFhRjh0VGpKQmR4b2lRVXhGVXpsMVRXRmtPVWROYW04NWMweFhOVzFWTVVnMU5HNW9WVFZmT0hwSGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBIaWdoZXIgRWR1Y2F0aW9uIFJlY3J1aXRtZW50IENvbnNvcnRpdW0gKEhFUkMpLCBIRVJDIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9tYWluLmhlcmNqb2JzLm9yZy9qb2JzLzE4OTM1NTc4L2RhdGEtYW5hbHlzdD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,20 hours ago,Full-time,,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['powerpoint', 'excel']"
+5,5,5,Data Analyst,Marathon TS, Anywhere ,via LinkedIn,"Marathon TS is seeking a Data Analyst to support a Federal client. This position is fully remote.
+
+General Experience: Five (5) years of relevant industry experience...
+
+Minimum Education: Bachelor's Degree or equivalent experience
+
+Functional Responsibilities:
+• Utilize / Modify a database to track information and monitor the status of implementation, evaluation, and results that inform stakeholders for decision-making on future evaluation.
+• Participates on quarterly calls to offer technical assistance and share findings of data collections, attend the annual meeting, and on an as-needed basis attend site visit.
+• Generates the actionable reports to aid the stakeholders in an ongoing data-informed decision-making process.
+• Supports the collection, analyses, and reporting of data for the program evaluation.
+• Gathers, analyzes, and composes technical information and documentation.
+• Conducts research and ensures the use of proper program and technical terminology.
+• Establishes schedules for document production and conducts quality assurance/control inspections at specific intervals to ensure standards are met.
+
+Clearance / Work Authorization: Must be a US Citizen authorized to work in the United States","['9 hours ago', '80K–90K a year', 'Work from home', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IktnUFVJMEwtRkk4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVUxck1teHNURVpyVDJwRVpDMW5UWE5KV0RkVU56bElUME5EUms5dGMwTlZNalZ3V1ZwRVdUQlJZbFpoT0hGV1JEVlJYMHBQTVRCcWVVeDJjMVZSTFZaaFEwVklSREZYUjJVd2FsOHljV2hEVjJadWMyOTFja3RPVTJaS2QyTjNhblE0TW5CM1dITmlWRkJVWmpkeVlYbG5WV3BMYzNWemVUaGlZVUZIWDBWaFoxSlJSRmRFV1hkb1pqUlJUMGg1U2xKdVUwVkVRMWc1YzFwVWVsbHZhbXRSRWhkMU9HSktXazVoY2taS1RHbzFUbTlRYUY4dFRqSkJkeG9pUVV4RlV6bDFVRmR1WjB4ZlVubFhVMHgwVUd3NFkwZ3pia2hhUlVsak5HdE9RUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1hbmFseXN0LWF0LW1hcmF0aG9uLXRzLTM2ODIwMTQ5Njk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1kWhMfrN10piGlfRwgWmF-cACieJiZ4Z61SS7tI&s,9 hours ago,Full-time,True,80K–90K a year,data analyst,2023-08-02 03:00:13.054897,United States,,80K–90K,a year,85000.0,80000.0,90000.0,,85000.0,85000.0,[]
+6,6,6,Sr. Health Data Analyst - Remote,Talentify.io, Anywhere ,via LinkedIn,"Our work matters. We help people get the medicine they need to feel better and live well. We do not lose sight of that. It fuels our passion and drives every decision we make.
+
+Job Posting Title...
+
+Sr. Health Data Analyst - Remote
+
+Job Description
+
+The Senior Health Data Analyst provides information, analyses, and consultation to internal and external stakeholders. This position assesses the performance of pharmacy benefits and/or networks and develops recommendations for improvements or enhancement to support departmental and organizational objectives. This position will develop new reports, analytical models, and products/benefit programs that align with Prime’s strategic imperatives and will lead high-complexity analysis and special projects as required.
+
+Responsibilities
+• Act as a champion of the consulting and analytic methodology for designated line of business; may provide work direction, serve as a mentor or train junior level analysts
+• Develop analytic methodologies, models, reports and new products
+• Lead complex client analytical work efforts and serve as an internal subject matter expert in designated line of business; leverages deep understanding of client or organizational drivers and maintains final accountability for client analytics and ad hoc reporting
+• Proactively investigates and builds recommendations for enhancements or resolution regarding key drivers of benefit performance, trends and obstacles in order to improve overall benefit and/or network performance and provide effective consultation to internal and external stakeholders
+• Other duties as assigned
+
+Minimum Qualifications
+• Bachelor’s degree in Mathematics, Finance, or related field, or the equivalent combination of education and/or relevant work experience; HS diploma or GED is required
+• 5 years of experience in pharmacy benefits management, reporting & analytics, benefits consulting, healthcare, financial services or related field
+• Must be eligible to work in the United States without need for work visa or residency sponsorship
+
+Additional Qualifications
+• Advanced troubleshooting skills, including in-depth client data research, which may involve research and drivers of utilization; understands resources needed and steps/processes on how to complete the problem; when issue arises, able to understand how to navigate to a resolution
+• Strong PBM industry knowledge and knowledge of the financial levers of Prime; able to articulate the industry trends to clients and the impact of trends and changes to client financials
+• Ability to establish rapport and effectively influence at all levels within an organization
+• Ability to communicate effectively and present complex data to a wide variety of audiences
+
+Preferred Qualifications
+• PBM (Pharmacy Benefit Management) experience
+• Experience conducting complex analysis on large sets of pharmacy, claims, medical, and/or financial data
+• Previous experience in a client facing or consultative role
+• Basic to intermediate SQL, VB, VBA, VBS skills
+• Familiarity with Tableau, Alteryx, Teradata, SQL Server, MS Access, SAS, GCP
+
+Minimum Physical Job Requirements
+• Ability to travel up to 10% of the time
+• Constantly required to sit, use hands to handle or feel, talk and hear
+• Frequently required to reach with hands and arms
+• Occasionally required to stand, walk and stoop, kneel, and crouch
+• Occasionally required to lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds
+• Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus
+
+Reporting Structure
+• Reports to Manager - IT
+
+Potential pay for this position ranges from $83,900.00 - $125,900.00 based on experience and skills. Pay range may vary by 8% depending on applicant location.
+
+To review our Benefits, Incentives and Additional Compensation, visit our Benefits Page and click on the ""Benefits at a glance"" button for more detail.
+
+Hiring Company LLC is an Equal Opportunity Employer. We encourage diverse candidates to apply and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity or expression, genetic information, marital status, family status, national origin, age, disability, veteran status, or any other legally pro","['11 hours ago', 'Work from home', 'Full-time', 'Health insurance']",eyJqb2JfdGl0bGUiOiJTci4gSGVhbHRoIERhdGEgQW5hbHlzdCAtIFJlbW90ZSIsImh0aWRvY2lkIjoiN2JaVkFuaXRSaTRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVTFyTW14c1NVMW5lR3hWWnpsc2IwOXlaMWhEYzNsb1VWbGhRMHhpUldGeVpuWkVXaTF6YVdKUWRYWnpNRmRGZVdRNU5WTlBVQzFNYXpoME9UTkplRmhtYTB4eGJXRm9kakV4VVZrMVNWZExkVWw1V1Y5RmEyZEJTV1JTV1dodWExSjZjUzB6V21JNU5rWnliSEEzY1hWVWR6RlZkbTFYYkhsMGN6WnVXRmxtVUhoRmN6VTNaM0pyUzJSUVNVZFhjbmcwZWtwVVJEQjNZVkl5VkY5cFNGcHhja3hyTFZobVFubFJNVVpqV0dSb1V5MVhNMlV3RWhkMU9HSktXazVoY2taS1RHbzFUbTlRYUY4dFRqSkJkeG9pUVV4RlV6bDFUV3h3Ym1sU2JYcEtPRGhQTkRSelJHaHVVRUU1VUVrdGRtSlBkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvc3ItaGVhbHRoLWRhdGEtYW5hbHlzdC1yZW1vdGUtYXQtdGFsZW50aWZ5LWlvLTM2ODE3MTM4NzQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiG1XqS45dxlq1jSaWlWdEUmoqOCCoL3sfm_WtrtM&s,11 hours ago,Full-time,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['sas', 'sql', 'tableau', 'vba', 'alteryx', 'gcp']"
+7,7,7,Senior Data Analyst,iSeatz, Anywhere ,via Jobgether,"This a Full Remote job, the offer is available from: United States
+
+This offer from ""iSeatz"" has been enriched by Jobgether and got a 77% flex score...
+
+Our Mission
+
+iSeatz provides digital commerce and loyalty tech solutions that enable travel and lifestyle bookings to global customers including American Express, Expedia, and IHG Hotels. Our proprietary platform processes more than $4B a year in transactions.
+
+We have a history of long-term trusted relationships and innovation that drives tangible value to our customers through a customizable, scalable, and secure platform, a global third party marketplace, and loyalty integration.
+
+We aspire to put our customers at the heart of every decision and exceed their expectations with best-in-class solutions and business-value innovations.
+
+What you’ll do
+
+The Senior Data Analyst reports to the Director, Business Intelligence.
+
+In this role, you will be responsible for all duties related to design and delivery of strategic, tactical, operational, and technical insights and reports for senior management and other stakeholders across business units.
+
+Your Impact
+• Source data, perform analyses, create reports/dashboards, and present findings that provide insights for strategic business objectives
+• Leverage technical skills within Tableau, Python, PostgreSQL, Adobe Analytics, Snowflake, etc.
+• Collaborate with stakeholders across the organization to provide analytical and reporting support and communicate insights
+• Support the director by providing technical leadership and guidance to the rest of the department
+• Translate business objectives and requirements into analytical initiatives, proactively identifying solutions and areas of opportunity for improvement and efficiency
+• Develop reports, data models, analyses, and forecasting in tools such as Python, PostgreSQL, Tableau, Looker Data Studio, Adobe Analytics, and Snowflake
+• Produce compelling visualizations that provide insights on business performance
+• Tell the “data story” — use and analyze data from various sources and present findings and analysis to a wide range of business stakeholders
+• Maintain existing Python scripts, Tableau Prep data flows, Tableau and Looker Data Studio dashboards, PostgreSQL queries, etc.
+• Provide technical guidance, support, and mentorship to junior team members
+• Support the implementation of data strategy and promote a data culture
+
+What you bring to the table
+• 4+ years experience of data analytics/science/insights/strategy with progressive responsibility in Business Intelligence and Analytics
+• Proficiency in PostgreSQL, Python, and Tableau
+• Background or degree in a business or quantitative subject (e.g. computer science, mathematics, engineering, science, economics or finance)
+• Superior skills in communicating (written, verbal, and presentation) the outcomes of data analysis to business line professionals to create a value proposition, including executive level audiences
+• Demonstrated experience with data sourcing, data validation, and triaging of issues related to dataflow processes such as ETLs or comparing source data to reports
+• Attention to detail and a commitment to data accuracy and integrity
+• Confidence to work independently and as part of a team
+• Ability and initiative to find creative solutions to problems
+• Extreme comfort in ambiguous, fast-paced environment
+• Ability to multitask, prioritize and coordinate resources across multiple, competing deadlines
+
+Bonus points
+• Configuration experience with web analytics platforms such as Adobe Analytics
+• Prior experience with Snowflake, data science, and machine learning
+• Travel industry specific experience
+• Experience leveraging third party APIs to obtain and create new data
+
+Location
+
+This role can be located anywhere in the continental United States. Feel free to work from your home office or the beach or from the cottage you rented for the summer!
+
+What we bring to the table
+
+iSeatz is among the most prominent tech employers in New Orleans. With employee engagement and community impact at the forefront of our culture, we have been named a 2020 Top Workplace by nola.com and honored as one of the CityBusinesses’ Best Places to Work since 2008, including a 1st place award in 2020, at the height of a global pandemic.
+
+iSeatz is committed to ensuring all employees are given every opportunity to succeed and grow within and beyond their current roles and responsibilities. We work diligently to build and maintain trust among our workforce in everything we do, beginning with fostering an autonomous and thought-provoking work environment.
+
+Micromanagement does not have a place at iSeatz. You will be trusted to use the knowledge and experience that brought you to iSeatz in tandem with the support of your manager and those around you, as needed, to deliver a high-quality end product.
+
+We value a diverse workplace
+
+We are committed to building and maintaining a culture of support, awareness, and sensitivity about the importance and impact of our differences and leverage these differences to build a stronger iSeatz.
+
+If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact the People Operations Team at humanresources@iseatz.com.
+
+A note about joining our workforce
+
+At iSeatz, we’re looking for candidates who are genuinely excited about joining our fast-paced and motivated team. If you’re not enthusiastic about the opportunity to be a significant contributor; to lead with confidence, discipline, impact, thoughtfulness, innovation, and accountability; and to bring your passion and drive for this specific role to the table, we ask that you kindly refrain from applying. On the other hand, if this all sounds like you, we can’t wait to hear from you! Come help us shape the future of the travel and loyalty tech industry","['5 hours ago', 'Work from home', 'Full-time']",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJLekFaVmc2WUVZY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVMXJNbXhzVEhWZlJEQmZYM1psUmxaRU1HZFpNMEpaVUZodWNtWkxOSEoyVTFWQ1JEWkpSRkpzVDJaTFNuUndORlZFU3pCM1F6VjRUVTVzVG1kR2NtbHFTSHBXVGtjdE5GWnRRbGgwVEU0NFEyMDFXa1kxZFY5MVVVTm5aV3hUWmtGd2Jqa3pZa05KVDBWMFdFWnRaMkprTmpSMFoySkVNa1JzTTAxeWJWY3RNV3g1TnpsUVIwMU9OelpyU1dJNFVtTlhkMU10U0ZFelRuWlRTbTVNVkMxalZWOTBhR3BmV2t0cWJuZDRTMnBmZUV0aVFVZE5FaGQxT0dKS1drNWhja1pLVEdvMVRtOVFhRjh0VGpKQmR4b2lRVXhGVXpsMVRreFFWVEZKZG1SQ1lXbHVhVXBSU21kQlMwWk1lVFp1YlZWUmR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9iZ2V0aGVyIiwibGluayI6Imh0dHBzOi8vam9iZ2V0aGVyLmNvbS9vZmZlci82NGM5ODg0ZjZhM2ExNjFhNmRjNGZlYWItc2VuaW9yLWRhdGEtYW5hbHlzdD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtDxQXJpvyWkQW-j_8Q5jvGQtNRd43G4VcsgmTYo&s,5 hours ago,Full-time,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['postgresql', 'python', 'snowflake', 'looker', 'tableau']"
+8,8,8,SAP- Data Analyst - Contract to Hire,Upwork, Anywhere ,via Upwork,"The responsibilities of our Data Analysts include:
+
+Perform data analysis of system generated dataset (SAP) and business mapping files on Data Lake and SQL database using Python, SQL, and Excel...
+
+Proactively use statistical and analytics techniques to diagnose, identify, and remedy data quality issues from large scale system through collaboration with subject matter experts
+
+Propose and conceptualize an optimal data model and data manipulation workflow to improve the efficiency of the reporting system
+
+Maintain monthly and quarterly reporting of Sustainability KPIs to senior business stakeholders and construct a narrative around it to highlight key improvement area to the business and technical stakeholders
+
+Mandatory:
+
+4+ years as a Data Analyst
+
+SAP (any module, but preference will be given to SAP Procurement module)
+
+Advanced Excel
+
+Python or PySpark
+
+Nice-to-have / not mandatory:
+
+If you find someone who has done Sustainability Reporting (environmental, social, and governance reports) for companies, they will almost definitely secure an interview with the client! This is a BIG advantage.
+
+Azure Cloud (Data Lake is preferred)
+
+Note: This would be a permanent and full-time position with us and we are only considering Indian candidates","['10 hours ago', 'Work from home', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJTQVAtIERhdGEgQW5hbHlzdCAtIENvbnRyYWN0IHRvIEhpcmUiLCJodGlkb2NpZCI6Il9KdVlFeGNKVlNjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVUxck1teHNTMU56ZG5WUk9HWlpkbmQxTjNOTmVuRlhkWHB4TlRCcE5YbGhXRE4wZFZaaVNHYzBTakpKVDBSQmNHOWZWa0ZOU2xkT1J6UnZWVzV1U1Rjek0ydERNSGgwTVdwSFpUY3dVRjlEYVVKbE1HbFRVVWQ2TFZCSVJGZG1kRVpST1hSTWFIRjBNRlZyUTFWQmN6UTBjMHBTWW1oUk0ycHpkVlV4VG5ObmNtNU5WemROVGxnNVQzTlFabGd0TjI5NFoxQk1VM0ZLWWxBeGFFRnllVGN3YTBobFdFOUNSa2RLY1U1c2FGVkNkSFprT0ZFd0VoZDFPR0pLV2s1aGNrWktUR28xVG05UWFGOHRUakpCZHhvaVFVeEZVemwxVGtoeU9XWk1OVGhCVkZWMk5tNHRkRXRJZFZwUFprZE9helYwVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9TQVAtRGF0YS1BbmFseXN0X34wMTg5NWM0Yjc4N2JhYjZhZDkvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,10 hours ago,Full-time,True,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['pyspark', 'azure', 'sap', 'excel', 'python', 'sql']"
+9,9,9,LEAD DATA ANALYST,Lumen,"  Jefferson City, MO   ",via Nexxt,"About Lumen
+
+Lumen is a global technology leader digitally connecting people, data and applications - quickly, securely, and effortlessly. We are a passionate group of people working together to build a culture and company from the people up - committed to teamwork, trust, and transparency. Because people power progress, we're looking for top-tier talent and are invested in providing the... flexibility you need to thrive and do your best work. Join us on our mission to connect the world and let's shape the future together.
+
+The Role
+
+The Lead Data Analyst is an important position within the Change Imperative PMO team for the Customer Success, CX, Marketing and Comms organization.?The Lead Data Analyst is responsible for gathering, analyzing and organizing large data sets in order to draw actionable insights to programs that reduce customer churn, improve profitability, reduce costs, streamline operations, or enhance service to the Lumen business and customers. Join our innovative team and make a significant impact by translating data into actionable strategies and empowering our executives with the information they need to drive the company's success in the ever-evolving telecom industry.
+
+The Main Responsibilities
+• Data Extraction and Analysis: Utilize SQL to extract, clean, and transform large datasets from various sources, ensuring data accuracy and reliability.
+• Executive Reporting: Collaborate with stakeholders and management to identify key performance indicators (KPIs) and develop executive-level reports that present actionable insights and support strategic decision-making.
+• Dashboard Creation: Design, develop, and maintain interactive and visually appealing dashboards using tools like Salesforce, Excel, and other relevant platforms to track and visualize key metrics.
+• Data Visualization: Present complex data in a clear and understandable manner, utilizing charts, graphs, and other data visualization techniques.
+• Data Quality Assurance: Perform data validation and cleansing to ensure data integrity and consistency across all reports and dashboards.
+• Ad-Hoc Analysis: Conduct ad-hoc data analysis to answer specific business questions, uncover trends, and provide insights for optimizing performance.
+• Identify Business Opportunities: Analyze data to identify potential areas for improvement, growth, and optimization within the telecom domain.
+• Collaborative Efforts: Work closely with cross-functional teams, including Sales, Marketing, and Product Development, to provide analytical support and enhance decision-making processes.
+• Continuously Improve Processes: Suggest and implement process improvements to enhance data collection, analysis, and reporting efficiency.
+
+What We Look For in a Candidate
+• Bachelor's degree in computer science, Statistics, Mathematics, or a related field.
+• Proven experience as a Data Analyst or similar role in the telecom or related industry.
+• Strong proficiency in SQL for data extraction, manipulation, and analysis.
+• Proficiency in Salesforce and Excel for creating comprehensive reports and visualizations.
+• Familiarity with data visualization tools such as Tableau, Power BI, or similar.
+• Knowledge of Python programming is a plus, with the ability to write scripts for automating data processes and performing advanced analytics.
+• Solid analytical skills with the ability to interpret complex data and draw meaningful insights.
+• Excellent attention to detail and data accuracy.
+• Strong communication and presentation skills to effectively convey findings and insights to non-technical stakeholders.
+• Ability to work independently and manage multiple projects simultaneously.
+• Adaptability and eagerness to stay up to date with the latest data analysis tools and techniques.
+• Preferred experience with effective used of Machine Learning, Deep Learning and Natural Language Processing modules and their implementation.
+
+Requisition #: 329750
+
+Background Screening
+
+If you are selected for a position, there will be a background screen, which may include checks for criminal records and/or motor vehicle reports and/or drug screening, depending on the position requirements. For more information on these checks, please refer to the Post Offer section of our FAQ page (~~~) . Job-related concerns identified during the background screening may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Equal Employment Opportunities
+
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, ""protected statuses""). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.
+
+Disclaimer
+
+The job responsibilities described above indicate the general nature and level of work performed by employees within this classification. It is not intended to include a comprehensive inventory of all duties and responsibilities for this job. Job duties and responsibilities are subject to change based on evolving business needs and conditions.
+
+Salary Range
+
+Salary Min :
+
+72540
+
+Salary Max :
+
+161520
+
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.
+
+This position is eligible for either short-term incentives or sales compensation. Director and VP positions also are eligible for long-term incentive. To learn more about our bonus structure, you can view additional information here. (~~~) We're able to answer any additional questions you may have as you move through the selection process.
+
+As part of our comprehensive benefits package, Lumen offers a broad range of Health, Life, Voluntary Lifestyle and other benefits and perks that enhance your physical, mental, emotional and financial wellbeing. You can learn more by clicking here. (~~~)
+
+Note: For union-represented postings, wage rates and ranges are governed by applicable collective bargaining agreement provisions","['9 hours ago', 'Full-time', 'Health insurance']",eyJqb2JfdGl0bGUiOiJMRUFEIERBVEEgQU5BTFlTVCIsImh0aWRvY2lkIjoiNHZoQk1uTlB5UEFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVTFyTW14c1RHNWlhRWxtYlhjeVJFNHhia2hxVjBFM1FrUkhiSGR6UjA5dU56VlJNVmxJTW5OVVV6Rm1iR1UzY0doUU0xOXZlREZCTlRGMExXMXFVbUpYYWxGbVFXNW5OM0p3U0RKQ1dGSnlSRXBvY2xCQ1IwRjFTMGxVVlVSclNXczBSMGROYlhaU2QxSnNhWFpOUkVObU5tTXhOVFZKYVd0SVpYaEJXR052VDNOUVoySXlkbUpFUTNOVmFVbGxYMGhrY2xCT05EQlZaa3BUWjNabVVWVlViMkZxZGxSRmF6Vm9helIxZUd3d00yZzVhM2t3RWhkMU9HSktXazVoY2taS1RHbzFUbTlRYUY4dFRqSkJkeG9pUVV4RlV6bDFUVFZGUjE5UVpXSjFYM1JGTm1SV1lscGhVVUV0WlRscGVHbExVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE5leHh0IiwibGluayI6Imh0dHBzOi8vd3d3Lm5leHh0LmNvbS9qb2JzL2xlYWQtZGF0YS1hbmFseXN0LWplZmZlcnNvbi1jaXR5LW1vLTI1NjI0MTE0NjQtam9iLmh0bWw/YWZmPTJFRDQ0QzcyLThGRDItNEI1RC1CQzU0LTJGNjIzRTg4QkUyNlx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanMmUZg0cDqBqxx_E0uCaxl_iCNUEJHf58pvyk_qc88bpK4N9pMIstoE&s,9 hours ago,Full-time,,,data analyst,2023-08-02 03:00:13.054897,United States,,,,,,,,,,"['python', 'power_bi', 'sql', 'tableau', 'excel']"

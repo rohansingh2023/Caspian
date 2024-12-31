@@ -1,0 +1,23 @@
+[ERROR Jan  1 01:36:56.876235300, defaults.go:139] Could not load configuration: Failed to load configuration.
+
+Stacktrace: D:/a/cli/cli/internal/logging/logging.go:github.com/ActiveState/cli/internal/logging.Error:258
+D:/a/cli/cli/internal/logging/defaults.go:github.com/ActiveState/cli/internal/logging.init.0:139
+C:/hostedtoolcache/windows/go/1.15.8/x64/src/runtime/proc.go:runtime.doInit:5652
+C:/hostedtoolcache/windows/go/1.15.8/x64/src/runtime/proc.go:runtime.doInit:5647
+C:/hostedtoolcache/windows/go/1.15.8/x64/src/runtime/proc.go:runtime.doInit:5647
+C:/hostedtoolcache/windows/go/1.15.8/x64/src/runtime/proc.go:runtime.main:191
+C:/hostedtoolcache/windows/go/1.15.8/x64/src/runtime/asm_amd64.s:runtime.goexit:1374
+
+[DEBUG Jan  1 01:36:56.879229600, locale.go:34] Init
+[DEBUG Jan  1 01:36:56.969791600, secrets.go:35] Gcloud Secretmanager failed to initialize (ignore if you're not trying to use gcloud): google: could not find default credentials. See https://developers.google.com/accounts/docs/application-default-credentials for more information.
+[DEBUG Jan  1 01:36:56.980795800, output.go:52] Requested outputer for 
+[DEBUG Jan  1 01:36:56.980795800, output.go:57] Using Plain outputer
+[DEBUG Jan  1 01:36:56.980795800, main.go:110] ConfigPath: C:\Users\bunty\AppData\Roaming\activestate\cli-release
+[DEBUG Jan  1 01:36:56.980795800, main.go:111] CachePath: C:\Users\bunty\AppData\Local\activestate
+[DEBUG Jan  1 01:36:56.981792800, subshell.go:87] Detected SHELL: C:\WINDOWS\system32\cmd.exe
+[DEBUG Jan  1 01:36:56.981792800, subshell.go:122] Using binary: C:\WINDOWS\system32\cmd.exe
+[DEBUG Jan  1 01:36:56.982797200, secrets.go:61] secrets-api scheme=https host=platform.activestate.com base_path=/api/secrets/v1
+[DEBUG Jan  1 01:36:56.983792900, secrets.go:61] secrets-api scheme=https host=platform.activestate.com base_path=/api/secrets/v1
+[DEBUG Jan  1 01:36:56.985794600, autoupdate.go:27] Not running auto updates
+[DEBUG Jan  1 01:36:56.986793800, deprecation.go:153] Fetching deprecation information from S3
+[DEBUG Jan  1 01:36:57.657119800, termutils.go:17] Cannot get terminal size: The handle is invalid.
