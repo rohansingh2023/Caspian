@@ -29,7 +29,7 @@ npm >= 6.0.0
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/search-engine.git
+git clone https://github.com/yourusername/caspian.git
 cd search-engine
 ```
 
@@ -96,7 +96,17 @@ The application will be available at [http://localhost:4200](http://localhost:42
 ### 🤝 Contributing
 
 1. Fork the repository
-2. Create your feature branch (==git checkout -b feature/AmazingFeature==)
-3. Commit your changes (==git commit -m 'Add some AmazingFeature'==)
-4. Push to the branch (==git push origin feature/AmazingFeature==)
+
+2. Create your feature branch
+```bash
+git checkout -b feature/AmazingFeature
+```
+3. Commit your changes 
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+4. Push to the branch 
+```bash
+git push origin feature/AmazingFeature
+```
 5. Open a Pull Request
