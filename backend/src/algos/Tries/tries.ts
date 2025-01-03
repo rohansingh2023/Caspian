@@ -18,16 +18,16 @@ class Trie {
 
   // built trie from set of words (Batch wise)
   buildFromSet(words: Set<string>, batchSize: number = 10000) {
-    let batchOfWords: string[] = []
+    let batchOfWords: string[] = [];
     for (const word of words) {
-        batchOfWords.push(word)
-        if(batchOfWords.length >= batchSize){
-            batchOfWords.forEach(w => this.insert(w))
-            batchOfWords = []
-        }
+      batchOfWords.push(word);
+      if (batchOfWords.length >= batchSize) {
+        batchOfWords.forEach((w) => this.insert(w));
+        batchOfWords = [];
+      }
     }
     // Process remaining words
-    batchOfWords.forEach(w=> this.insert(w))
+    batchOfWords.forEach((w) => this.insert(w));
   }
 
   searchAutoComplete(prefix: string): string[] {
@@ -57,9 +57,9 @@ class Trie {
   }
 
   // Serialize trie to buffer
-  async saveTrieToBinary(filePath: string) {
+  async saveTrieToBinary(filePath: string, root: TrieNode) {
     try {
-      const searilaizedFile = this.root.toJSON(); // Can convert to any serializable format
+      const searilaizedFile = root.toJSON(); // Can convert to any serializable format
       const buffer = Buffer.from(JSON.stringify(searilaizedFile));
       await fs.writeFile(filePath, buffer);
       console.log(`Trie saved to ${filePath}`);
@@ -72,10 +72,19 @@ class Trie {
   // Load trie from binary file
   static async loadTrieFromBinary(filePath: string): Promise<Trie> {
     try {
+      console.time("In loadTrie --> ReadFile");
       const buffer = await fs.readFile(filePath);
+      console.timeEnd("In loadTrie --> ReadFile");
+
+      console.time("In loadTrie --> ParseJson");
       const data = JSON.parse(buffer.toString());
+      console.timeEnd("In loadTrie --> ParseJson");
+      
       const trie = new Trie();
+
+      console.time("In loadTrie --> FromJson");
       trie.root = TrieNode.fromJSON(data);
+      console.timeEnd("In loadTrie --> FromJson");
       return trie;
     } catch (error) {
       console.error("Error loading trie:", error);
@@ -84,4 +93,4 @@ class Trie {
   }
 }
 
-export default Trie
+export default Trie;

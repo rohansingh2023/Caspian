@@ -7,10 +7,11 @@
     "dev": "nodemon src/index.ts",
     "build": "npm i && tsc",
     "start": "node ./dist/index.js",
-    "index": "ts-node src/algos/InvertedIndex/process-csv.ts",
+    "index": "ts-node src/scripts/build-index.ts",
     "load": "ts-node src/algos/InvertedIndex/load-inverted-index.ts",
-    "convert": "ts-node src/utils/convert-data.ts",
-    "test-trie": "ts-node src/algos/Tries/test.ts"
+    "data": "ts-node src/scripts/build-data.ts",
+    "trie": "ts-node src/scripts/build-tries.ts",
+    "vocab": "ts-node src/scripts/build-vocab.ts"
   },
   "keywords": [],
   "author": "",

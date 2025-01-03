@@ -158,4 +158,5 @@ export const INPUTFILEPATH =
   "D:/Programming/Web Development/projects/Caspian/backend/data/gsearch_jobs.csv";
 export const OUTPUTFILEPATH = "indexes/inverted_index.bin";
 export const DATAOUTPUTFILEPATH = "D:/Programming/Web Development/projects/Caspian/backend/data/data.bin"
-export const TRIEDSOUTPUTPATH = "data-structures/trie.bin"
+export const TRIEDSOUTPUTPATH = "data-structures/tries/trie.bin"
+export const VOCABOUTPUTPATH = "data/vocab.bin"
